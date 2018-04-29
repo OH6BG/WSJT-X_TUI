@@ -1,5 +1,6 @@
 # WSJT-X_TUI
 A text-based UI to read spots from WSJT-X via the UDP port
+
 (c) 2018 Jari Perkiömäki OH6BG
 
 CHANGELOG:
