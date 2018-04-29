@@ -4,7 +4,7 @@ A text-based UI to read spots from WSJT-X via the UDP port
 (c) 2018 Jari Perkiömäki OH6BG
 
 
-## CHANGELOG:
+### CHANGELOG:
 
 29 Apr 2018: Initial release
 
