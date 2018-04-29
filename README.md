@@ -9,4 +9,5 @@ CHANGELOG:
 ### Dependencies
 
 Use WSJT-X v1.9.0 (rc versions ok), Python 3.6.x, and WSJTXClass by Randy K9VD
+
 Download WSJT-X Python Class here: https://github.com/rstagers/WSJT-X/
